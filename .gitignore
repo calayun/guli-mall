@@ -24,3 +24,5 @@ HELP.md
 **/HELP.md
 **/README.md
 **/.LICENSE
+**/*.iml
+**/guli-common.iml
