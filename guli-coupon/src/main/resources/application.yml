@@ -1,0 +1,16 @@
+spring:
+  profiles:
+    #环境 dev、test、rel、pro
+    active: dev
+  # jackson时间格式化
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+swagger2:
+  show: true
+  title: 服务端接口
+  version: 0.0.1-SNAPSHOT
+  base-package: com.bangdao
+
+#logging:
+#  config: classpath:logback-spring.xml
