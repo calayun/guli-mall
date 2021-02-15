@@ -18,9 +18,9 @@ public class GuliProductApplicationTests {
     @Test
     public void contextLoads() {
 
-        SpuInfoEntity entity = new SpuInfoEntity();
-        entity.setSpuName("华为");
-        spuInfoService.save(entity);
+//        SpuInfoEntity entity = new SpuInfoEntity();
+//        entity.setSpuName("华为");
+//        spuInfoService.save(entity);
     }
 
 }
